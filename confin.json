@@ -1,0 +1,27 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql+pymysql://root:@localhost/codingthunder",
+    "prod_uri": "mysql+pymysql://root:@localhost/codingthunder",
+    "fb_url": "https://facebook.com/codingthunder",
+    "tw_url":"https://twitter.com/codingthunder",
+    "gh_url": "https://github.com/codingthunder",
+    "blog_name": "Coding Thunder",
+    "tag_line": "Porud by coding thunder",
+    "gmail_user": "uddhabnath001@gmail.com",
+    "gmail_password": "uddhab@1234",
+    "blog_post": "Hey this is my fisrt blog and we hope like this blog   thank you for visit",
+    "no_of_page": 2,
+    "logo_img": "loging.jpeg",
+    "admin_user": "uddhab@1234",
+    "admin_pass": "pori",
+    "upload-location": "D:\\flaskkkkk\\static"
+
+
+  }
+
+
+
+
+}
